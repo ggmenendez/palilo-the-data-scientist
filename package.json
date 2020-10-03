@@ -11,6 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.20.0",
-    "mongoose": "^5.10.7"
+    "dotenv": "^8.2.0",
+    "mongoose": "^5.10.7",
+    "node-cron": "^2.0.3"
   }
 }
